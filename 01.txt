@@ -1,0 +1,16 @@
+1.)LIst out the feature of HTML 5.
+Ans:-i)Semantic Element
+When constructing an HTML 'the term' semantic refers to the meaning of the text. Semantic to put it simply, is the use of HTML tag  that accurately reflect the context they contain.
+
+ii)Audio and video HTML 5 is feature the support for audio and video. It has reduced the hassle of relying upon third-p[arty serrices such as adobe flash player. To embed audio and video into HTMLn document, you may use the following two tags <Audio> and <Video> tags 
+
+iii) Geolocation API
+The locetion is adjeved in a way thata a uses sends their  iongitude and latiture and this data is set to tue backend server, After which we access that data to create all these fancy appliceetion.
+
+iv)Drag and drop
+Drog and drop is among the most unique feature of html 5 that allow you to grab any element in the DOM and drop it to a different location.
+
+v) Canvas Element
+Canvas element  is a top feature that has made the multi  task of handing graphics easier development with the help of canvas element. 
+ 
+ 

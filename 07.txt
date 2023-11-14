@@ -1,0 +1,9 @@
+7) What are the benefits of using semantic tag in our webpage?
+Ans:-  The core charactrestric element is that it clearly comunicated its meaning to both the developer and the brouser.
+
+  These element clearly define its content  :-
+i) The semantic HTML tags help the search engines and other user device to determine the importance and content of web pages.
+
+ii)  The pages mode with semantic element are much easier to read.
+
+ii)  It has  greate aceessibility. It offers a better user experience.

@@ -1,0 +1,8 @@
+2. What are HTML Entities? List out 5 commonly used HTML entities.
+Ans:- 
+            HTML intities are the special charactor can be use the easily keyboard shortcut  entities. Five commonly HTML entities.
+i)      &nbsp;     Non-breating Space       &#160;  
+ii)    &copy;      Copy right                            &#169; 
+iii)  &quot;      Double qutation mark  &#34;
+iv) &lt;               less than                               &#60;
+v)  &dollar;     dollar sign                           &#36;

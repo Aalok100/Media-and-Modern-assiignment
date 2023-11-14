@@ -1,0 +1,10 @@
+4. List any 3 ways which help us in improving the accessibillty of HTML.
+
+Ans:- i) Design forms for web accessibility 
+It is designing online form important to prorerly label text fields with a descriptive title so people who rely on screen readers can properly complete the forms.  Using label tag property will increase the accessibility of your web forms.
+
+ii) Use Descriptive title for links
+Using descriptive titles for links will make it easier those who rely on screen readers to navigate your  your website to understsnd the purpose of the link and where they will be redirected.
+
+iii)Use colors carefully
+Colors can help yours easily distinguish different sets of information. However, color blindness and other disabilities cane make it difficult for users to find information, call-to-action buttons or other aspects when developers fail to maintain a proper contrast os colors.

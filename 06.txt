@@ -1,0 +1,7 @@
+6) List any 5 semantic tag in HTML along with their description.
+Ans :- Semantic Tag                                             Desciption
+       <nav>                                     Specifies the main content of a document.
+       <section>                            Define navigation link.
+       <header>                            Specify the header for a document or section.
+        <footer>                             Define a footer for a document or section.
+        <main>                             Specifies the main content of a document.
